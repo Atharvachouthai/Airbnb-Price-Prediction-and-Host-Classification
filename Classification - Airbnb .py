@@ -1,5 +1,3 @@
-#------------------------------- 5805 ML Term Project -------------------------------------
-#------------------------------- Atharva Chouthai ----------------------------------------
 import pandas as pd
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import LabelEncoder, StandardScaler, MinMaxScaler
